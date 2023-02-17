@@ -15,7 +15,7 @@
 .page-hero-container .hero-box {
   width: 100%;
   background: var(--clr-primary);
-  min-height: 250px;
+  min-height: 251px;
   display: flex;
   justify-content: center;
   align-items: center;
